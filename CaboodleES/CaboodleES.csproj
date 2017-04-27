@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{DCFACA67-9685-4222-8C46-BB8B55C6C3C6}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>CaboodleES</RootNamespace>
+    <AssemblyName>CaboodleES</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <AllowUnsafeBlocks>false</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject />
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Source\CaboodleES\Attributes\ComponentUsage.cs" />
+    <Compile Include="Source\CaboodleES\ComponentInfo.cs" />
+    <Compile Include="Source\CaboodleES\Exception\ComponentAlreadyExistsException.cs" />
+    <Compile Include="Source\CaboodleES\Interface\ICaboodle.cs" />
+    <Compile Include="Source\CaboodleES\Interface\IEvent.cs" />
+    <Compile Include="Source\CaboodleES\Manager.cs" />
+    <Compile Include="Source\CaboodleES\System\AspectMatcher.cs" />
+    <Compile Include="Source\CaboodleES\Manager\ComponentManager.cs" />
+    <Compile Include="Source\CaboodleES\System\Aspect.cs" />
+    <Compile Include="Source\CaboodleES\Utils\Bag.cs" />
+    <Compile Include="Source\CaboodleES\Utils\Table.cs" />
+    <Compile Include="Source\CaboodleES\Utils\BitMask.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Source\CaboodleES\Entity.cs" />
+    <Compile Include="Source\CaboodleES\Caboodle.cs" />
+    <Compile Include="Source\CaboodleES\Manager\SystemManager.cs" />
+    <Compile Include="Source\CaboodleES\Component.cs" />
+    <Compile Include="Source\CaboodleES\ComponentCollection.cs" />
+    <Compile Include="Source\CaboodleES\Interface\IComponentCollection.cs" />
+    <Compile Include="Source\CaboodleES\Manager\EntityManager.cs" />
+    <Compile Include="Source\CaboodleES\Exception\NoSuchComponentException.cs" />
+    <Compile Include="Source\CaboodleES\Interface\ICloneable.cs" />
+    <Compile Include="Source\CaboodleES\Exception\NoSuchEntityException.cs" />
+    <Compile Include="Source\CaboodleES\Manager\PoolManager.cs" />
+    <Compile Include="Source\CaboodleES\System\Processor.cs" />
+    <Compile Include="Source\CaboodleES\Manager\EventManager.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

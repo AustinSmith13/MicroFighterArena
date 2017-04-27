@@ -1,0 +1,6 @@
+C:\Users\Austin\documents\visual studio 2015\Projects\Aurora\Aurora\bin\Debug\Aurora.exe.config
+C:\Users\Austin\documents\visual studio 2015\Projects\Aurora\Aurora\bin\Debug\Aurora.exe
+C:\Users\Austin\documents\visual studio 2015\Projects\Aurora\Aurora\bin\Debug\Aurora.pdb
+C:\Users\Austin\documents\visual studio 2015\Projects\Aurora\Aurora\obj\Debug\Aurora.exe
+C:\Users\Austin\documents\visual studio 2015\Projects\Aurora\Aurora\obj\Debug\Aurora.pdb
+C:\Users\Austin\Documents\Visual Studio 2015\Projects\Aurora\Aurora\bin\Debug\System.Data.SQLite.dll

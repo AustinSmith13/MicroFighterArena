@@ -1,0 +1,10 @@
+c:\users\austin\documents\visual studio 2015\Projects\LightCyclesAI\LightCyclesAI\bin\Debug\LightCyclesAI.exe.config
+c:\users\austin\documents\visual studio 2015\Projects\LightCyclesAI\LightCyclesAI\bin\Debug\LightCyclesAI.exe
+c:\users\austin\documents\visual studio 2015\Projects\LightCyclesAI\LightCyclesAI\bin\Debug\LightCyclesAI.pdb
+c:\users\austin\documents\visual studio 2015\Projects\LightCyclesAI\LightCyclesAI\bin\Debug\OpenTK.dll
+c:\users\austin\documents\visual studio 2015\Projects\LightCyclesAI\LightCyclesAI\bin\Debug\OpenTK.xml
+c:\users\austin\documents\visual studio 2015\Projects\LightCyclesAI\LightCyclesAI\obj\Debug\LightCyclesAI.csprojResolveAssemblyReference.cache
+c:\users\austin\documents\visual studio 2015\Projects\LightCyclesAI\LightCyclesAI\obj\Debug\LightCyclesAI.exe
+c:\users\austin\documents\visual studio 2015\Projects\LightCyclesAI\LightCyclesAI\obj\Debug\LightCyclesAI.pdb
+c:\users\austin\documents\visual studio 2015\Projects\LightCyclesAI\LightCyclesAI\bin\Debug\CaboodleES.dll
+c:\users\austin\documents\visual studio 2015\Projects\LightCyclesAI\LightCyclesAI\bin\Debug\CaboodleES.pdb

@@ -1,0 +1,31 @@
+C:\Users\Austin\Documents\Visual Studio 2015\Projects\Aurora\Aurora\bin\Debug\Aurora.exe.config
+C:\Users\Austin\Documents\Visual Studio 2015\Projects\Aurora\Aurora\bin\Debug\Aurora.exe
+C:\Users\Austin\Documents\Visual Studio 2015\Projects\Aurora\Aurora\bin\Debug\Aurora.pdb
+C:\Users\Austin\Documents\Visual Studio 2015\Projects\Aurora\Aurora\bin\Debug\System.Data.SQLite.dll
+C:\Users\Austin\Documents\Visual Studio 2015\Projects\Aurora\Aurora\obj\Debug\CaboodleES.csprojResolveAssemblyReference.cache
+C:\Users\Austin\Documents\Visual Studio 2015\Projects\Aurora\Aurora\obj\Debug\Aurora.exe
+C:\Users\Austin\Documents\Visual Studio 2015\Projects\Aurora\Aurora\obj\Debug\Aurora.pdb
+C:\Users\Austin\Documents\Visual Studio 2015\Projects\CaboodleES\CaboodleES\bin\Debug\CaboodleES.exe.config
+C:\Users\Austin\Documents\Visual Studio 2015\Projects\CaboodleES\CaboodleES\bin\Debug\CaboodleES.exe
+C:\Users\Austin\Documents\Visual Studio 2015\Projects\CaboodleES\CaboodleES\bin\Debug\CaboodleES.pdb
+C:\Users\Austin\Documents\Visual Studio 2015\Projects\CaboodleES\CaboodleES\obj\Debug\CaboodleES.exe
+C:\Users\Austin\Documents\Visual Studio 2015\Projects\CaboodleES\CaboodleES\obj\Debug\CaboodleES.pdb
+C:\Users\Austin\Documents\Visual Studio 2015\Projects\CaboodleES\CaboodleES\obj\Debug\CaboodleES.csprojResolveAssemblyReference.cache
+C:\Source\CaboodleES\CaboodleES\obj\Debug\CaboodleES.pdb
+C:\Source\CaboodleES\CaboodleES\bin\Debug\CaboodleES.pdb
+C:\Source\CaboodleES\CaboodleES\bin\Debug\CaboodleES.dll.config
+C:\Source\CaboodleES\CaboodleES\bin\Debug\CaboodleES.dll
+C:\Source\CaboodleES\CaboodleES\obj\Debug\CaboodleES.dll
+C:\Source\CaboodleES\CaboodleES\obj\Debug\CaboodleES.csprojResolveAssemblyReference.cache
+G:\Projects\Creoverse\Source\CaboodleES\CaboodleES\bin\Debug\CaboodleES.dll.config
+G:\Projects\Creoverse\Source\CaboodleES\CaboodleES\bin\Debug\CaboodleES.dll
+G:\Projects\Creoverse\Source\CaboodleES\CaboodleES\bin\Debug\CaboodleES.pdb
+G:\Projects\Creoverse\Source\CaboodleES\CaboodleES\obj\Debug\CaboodleES.csprojResolveAssemblyReference.cache
+G:\Projects\Creoverse\Source\CaboodleES\CaboodleES\obj\Debug\CaboodleES.dll
+G:\Projects\Creoverse\Source\CaboodleES\CaboodleES\obj\Debug\CaboodleES.pdb
+C:\Users\Austin\Documents\Visual Studio 2015\Projects\LightCyclesAI\CaboodleES\bin\Debug\CaboodleES.dll.config
+C:\Users\Austin\Documents\Visual Studio 2015\Projects\LightCyclesAI\CaboodleES\bin\Debug\CaboodleES.dll
+C:\Users\Austin\Documents\Visual Studio 2015\Projects\LightCyclesAI\CaboodleES\bin\Debug\CaboodleES.pdb
+C:\Users\Austin\Documents\Visual Studio 2015\Projects\LightCyclesAI\CaboodleES\obj\Debug\CaboodleES.csprojResolveAssemblyReference.cache
+C:\Users\Austin\Documents\Visual Studio 2015\Projects\LightCyclesAI\CaboodleES\obj\Debug\CaboodleES.dll
+C:\Users\Austin\Documents\Visual Studio 2015\Projects\LightCyclesAI\CaboodleES\obj\Debug\CaboodleES.pdb

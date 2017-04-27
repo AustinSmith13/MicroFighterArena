@@ -1,0 +1,6 @@
+c:\users\austin\documents\visual studio 2015\Projects\Aurora\Aurora\bin\Debug\Aurora.exe.config
+c:\users\austin\documents\visual studio 2015\Projects\Aurora\Aurora\obj\Debug\Aurora.csprojResolveAssemblyReference.cache
+c:\users\austin\documents\visual studio 2015\Projects\Aurora\Aurora\bin\Debug\Aurora.exe
+c:\users\austin\documents\visual studio 2015\Projects\Aurora\Aurora\bin\Debug\Aurora.pdb
+c:\users\austin\documents\visual studio 2015\Projects\Aurora\Aurora\obj\Debug\Aurora.exe
+c:\users\austin\documents\visual studio 2015\Projects\Aurora\Aurora\obj\Debug\Aurora.pdb

@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LightCyclesAI", "LightCyclesAI\LightCyclesAI.csproj", "{B3A3DD2A-5E88-4878-81ED-63F188D9FDA7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CaboodleES", "CaboodleES\CaboodleES.csproj", "{DCFACA67-9685-4222-8C46-BB8B55C6C3C6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B3A3DD2A-5E88-4878-81ED-63F188D9FDA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3A3DD2A-5E88-4878-81ED-63F188D9FDA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3A3DD2A-5E88-4878-81ED-63F188D9FDA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3A3DD2A-5E88-4878-81ED-63F188D9FDA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCFACA67-9685-4222-8C46-BB8B55C6C3C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCFACA67-9685-4222-8C46-BB8B55C6C3C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCFACA67-9685-4222-8C46-BB8B55C6C3C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCFACA67-9685-4222-8C46-BB8B55C6C3C6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
